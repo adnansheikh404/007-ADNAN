@@ -5,4 +5,4 @@ git clone https://github.com/adnansheikh404/007-ADNAN
 
 cd 007-ADNAN
 
-python ADNAN-XD.py
+python 007-ADNAN.py
